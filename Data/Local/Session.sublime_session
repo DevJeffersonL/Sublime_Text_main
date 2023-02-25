@@ -1,8 +1,11 @@
 {
 	"file_history":
 	[
-		"/C/CLI_Compiler/C_Cpp_Compiler.bat",
 		"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+		"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Compiler.bat",
+		"/C/Users/Mr_LAKASHIANG/Desktop/save1.bat",
+		"/C/Users/Mr_LAKASHIANG/Desktop/C_Cpp_Win7.bat",
+		"/C/CLI_Compiler/C_Cpp_Compiler.bat",
 		"/C/myFiles/Sublime_Text_main/CoPy_CLI_Compiler.bat",
 		"/C/myFiles/Sublime_Text_main/copy.bat",
 		"/C/Users/Mr_LAKASHIANG/Desktop/main.bat",
@@ -10,6 +13,7 @@
 	],
 	"folder_history":
 	[
+		"/C/myFiles/Sublime_Text_main/CLI_Compiler"
 	],
 	"last_version": 4143,
 	"last_window_id": 2,
@@ -18,11 +22,11 @@
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 609.0,
+		"new_window_height": 605.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
-			0.0,
+			800.0,
 			0.0
 		],
 		"new_window_settings":
@@ -88,8 +92,11 @@
 			},
 			"file_history":
 			[
-				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+				"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Compiler.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/save1.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/C_Cpp_Win7.bat",
+				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
 				"/C/myFiles/Sublime_Text_main/CoPy_CLI_Compiler.bat",
 				"/C/myFiles/Sublime_Text_main/copy.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/main.bat",
@@ -97,7 +104,7 @@
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
@@ -111,6 +118,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"a.exe"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -118,6 +126,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"main.exe"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -129,7 +138,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 36.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -147,7 +156,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 68.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -187,7 +196,7 @@
 			{
 			}
 		},
-		"new_window_width": 816.0
+		"new_window_width": 814.0
 	},
 	"windows":
 	[
@@ -257,8 +266,11 @@
 			},
 			"file_history":
 			[
-				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+				"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Compiler.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/save1.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/C_Cpp_Win7.bat",
+				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
 				"/C/myFiles/Sublime_Text_main/CoPy_CLI_Compiler.bat",
 				"/C/myFiles/Sublime_Text_main/copy.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/main.bat",
@@ -266,7 +278,7 @@
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
@@ -280,6 +292,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"a.exe"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -287,6 +300,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"main.exe"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -306,7 +320,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 36.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -344,11 +358,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,657,245,-1,1061,eda1b5461763384bbf4cfc2e5e872070",
+			"position": "0,0,1,-1,-1,-1,-1,655,0,0,814,eda1b5461763384bbf4cfc2e5e872070",
 			"project": "",
 			"replace":
 			{
-				"height": 68.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
