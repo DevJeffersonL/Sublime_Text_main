@@ -1,0 +1,6 @@
+{
+    "cmd": ["start","cmd","/c", "C:\\CLI_Compiler\\C_Cpp_Win7.bat $file_name || C_Cpp_Win7.bat $file_name"],
+    "shell": true,
+    "quiet": true,
+    "selector": "source.c, source.cpp, source.c++"
+}

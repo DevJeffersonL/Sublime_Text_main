@@ -1,20 +1,25 @@
 {
 	"file_history":
 	[
-		"/C/Users/Mr_LAKASHIANG/Desktop/main.c"
+		"/C/CLI_Compiler/C_Cpp_Compiler.bat",
+		"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+		"/C/myFiles/Sublime_Text_main/CoPy_CLI_Compiler.bat",
+		"/C/myFiles/Sublime_Text_main/copy.bat",
+		"/C/Users/Mr_LAKASHIANG/Desktop/main.bat",
+		"/C/Users/Mr_LAKASHIANG/Desktop/rm_Folder.bat"
 	],
 	"folder_history":
 	[
 	],
 	"last_version": 4143,
-	"last_window_id": 1,
+	"last_window_id": 2,
 	"log_indexing": false,
 	"next_update_check": 1677380608,
 	"settings":
 	{
 		"new_window_full_screen": false,
 		"new_window_height": 609.0,
-		"new_window_maximized": true,
+		"new_window_maximized": false,
 		"new_window_position":
 		[
 			0.0,
@@ -30,6 +35,30 @@
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C_Cpp_Compiler.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C_Cpp_Win7.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C_Cpp_Compiler.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -59,11 +88,16 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Mr_LAKASHIANG/Desktop/main.c"
+				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+				"/C/myFiles/Sublime_Text_main/CoPy_CLI_Compiler.bat",
+				"/C/myFiles/Sublime_Text_main/copy.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/main.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/rm_Folder.bat"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
@@ -95,13 +129,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"input":
 			{
 				"height": 0.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 168.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -109,7 +147,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 68.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -163,9 +201,33 @@
 			"buffers":
 			[
 			],
-			"build_system": "",
+			"build_system": "Packages/User/C_Cpp_Compiler.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C_Cpp_Compiler.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C_Cpp_Win7.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C_Cpp_Compiler.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -195,11 +257,16 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Mr_LAKASHIANG/Desktop/main.c"
+				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+				"/C/myFiles/Sublime_Text_main/CoPy_CLI_Compiler.bat",
+				"/C/myFiles/Sublime_Text_main/copy.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/main.bat",
+				"/C/Users/Mr_LAKASHIANG/Desktop/rm_Folder.bat"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
@@ -239,7 +306,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"input":
 			{
@@ -268,16 +335,20 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 168.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,663,115,4,931,eda1b5461763384bbf4cfc2e5e872070",
+			"position": "0,0,1,-32000,-32000,-1,-1,657,245,-1,1061,eda1b5461763384bbf4cfc2e5e872070",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 68.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -320,7 +391,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 2,
 			"workspace_name": ""
 		}
 	],

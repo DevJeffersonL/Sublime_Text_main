@@ -1,0 +1,6 @@
+{
+    "cmd": ["start", "cmd", "/c", "if exist C:\\CLI_Compiler\\pY_Compiler.bat (C:\\CLI_Compiler\\pY_Compiler.bat $file_name) else (pY_Compiler.bat $file_name)"],
+    "shell": true,
+    "quiet": true,
+    "selector": "source.python"
+}
