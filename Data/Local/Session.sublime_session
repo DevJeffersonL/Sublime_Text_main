@@ -1,8 +1,20 @@
 {
 	"file_history":
 	[
+		"/C/Users/Mr_LAKASHIANG/Documents/main.c",
+		"/C/Users/Mr_LAKASHIANG/My Drive/mY_Drive/MyFiles/SQL_SHell/LISTNER.py",
+		"/C/myFiles/tcc-0.9.27/main.c",
+		"/C/Users/Mr_LAKASHIANG/Desktop/cpi-2.0.4/main.cpp",
+		"/C/Users/Mr_LAKASHIANG/Desktop/cpi-2.0.4/cpi.bat",
 		"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+		"/C/Users/Mr_LAKASHIANG/Desktop/main.cpp",
+		"/C/myFiles/Sublime_Text_main/Data/Packages/User/C_Cpp_ver1.sublime-build",
+		"/C/Users/Mr_LAKASHIANG/Documents/main.cpp",
+		"/C/myFiles/Sublime_Text_main/Data/Packages/User/auto_save.sublime-settings",
+		"/C/myFiles/Sublime_Text_main/Data/Packages/auto-save/auto_save.sublime-settings",
+		"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Win7.bat",
 		"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Compiler.bat",
+		"/C/myFiles/Sublime_Text_main/CLI_Compiler/Batch_C.bat",
 		"/C/Users/Mr_LAKASHIANG/Desktop/save1.bat",
 		"/C/Users/Mr_LAKASHIANG/Desktop/C_Cpp_Win7.bat",
 		"/C/CLI_Compiler/C_Cpp_Compiler.bat",
@@ -18,11 +30,11 @@
 	"last_version": 4143,
 	"last_window_id": 2,
 	"log_indexing": false,
-	"next_update_check": 1677380608,
+	"next_update_check": 1678149943,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 605.0,
+		"new_window_height": 603.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
@@ -35,6 +47,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"my",
+						"myClass_3"
+					],
+					[
+						"mycla",
+						"myClass_2"
+					],
+					[
+						"myclas",
+						"myClass_2"
+					]
 				]
 			},
 			"build_system_choices":
@@ -59,7 +83,55 @@
 						]
 					],
 					[
-						"Packages/User/C_Cpp_Compiler.sublime-build",
+						"Packages/User/C_Cpp_Win7.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C_Cpp_Compiler.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C_Cpp_ver1.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C_Cpp_ver1.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C_Cpp_Compiler.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C_Cpp_Win7.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C_Cpp_Win7.sublime-build",
 						""
 					]
 				]
@@ -71,6 +143,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
 				],
 				"width": 0.0
 			},
@@ -92,8 +168,20 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Mr_LAKASHIANG/Documents/main.c",
+				"/C/Users/Mr_LAKASHIANG/My Drive/mY_Drive/MyFiles/SQL_SHell/LISTNER.py",
+				"/C/myFiles/tcc-0.9.27/main.c",
+				"/C/Users/Mr_LAKASHIANG/Desktop/cpi-2.0.4/main.cpp",
+				"/C/Users/Mr_LAKASHIANG/Desktop/cpi-2.0.4/cpi.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+				"/C/Users/Mr_LAKASHIANG/Desktop/main.cpp",
+				"/C/myFiles/Sublime_Text_main/Data/Packages/User/C_Cpp_ver1.sublime-build",
+				"/C/Users/Mr_LAKASHIANG/Documents/main.cpp",
+				"/C/myFiles/Sublime_Text_main/Data/Packages/User/auto_save.sublime-settings",
+				"/C/myFiles/Sublime_Text_main/Data/Packages/auto-save/auto_save.sublime-settings",
+				"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Win7.bat",
 				"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Compiler.bat",
+				"/C/myFiles/Sublime_Text_main/CLI_Compiler/Batch_C.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/save1.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/C_Cpp_Win7.bat",
 				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
@@ -104,7 +192,7 @@
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 31.0
 			},
 			"find_in_files":
 			{
@@ -118,6 +206,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"C_Cpp_Win7",
 					"a.exe"
 				],
 				"highlight": true,
@@ -126,6 +215,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"C_Cpp_ver1",
 					"main.exe"
 				],
 				"reverse": false,
@@ -138,7 +228,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -156,7 +246,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -196,7 +286,7 @@
 			{
 			}
 		},
-		"new_window_width": 814.0
+		"new_window_width": 812.0
 	},
 	"windows":
 	[
@@ -205,12 +295,24 @@
 			{
 				"selected_items":
 				[
+					[
+						"my",
+						"myClass_3"
+					],
+					[
+						"mycla",
+						"myClass_2"
+					],
+					[
+						"myclas",
+						"myClass_2"
+					]
 				]
 			},
 			"buffers":
 			[
 			],
-			"build_system": "Packages/User/C_Cpp_Compiler.sublime-build",
+			"build_system": "Packages/User/C_Cpp_ver1.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -233,7 +335,55 @@
 						]
 					],
 					[
-						"Packages/User/C_Cpp_Compiler.sublime-build",
+						"Packages/User/C_Cpp_Win7.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C_Cpp_Compiler.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C_Cpp_ver1.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C_Cpp_ver1.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C_Cpp_Compiler.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C_Cpp_Win7.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C_Cpp_Win7.sublime-build",
 						""
 					]
 				]
@@ -245,6 +395,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
 				],
 				"width": 0.0
 			},
@@ -266,8 +420,20 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Mr_LAKASHIANG/Documents/main.c",
+				"/C/Users/Mr_LAKASHIANG/My Drive/mY_Drive/MyFiles/SQL_SHell/LISTNER.py",
+				"/C/myFiles/tcc-0.9.27/main.c",
+				"/C/Users/Mr_LAKASHIANG/Desktop/cpi-2.0.4/main.cpp",
+				"/C/Users/Mr_LAKASHIANG/Desktop/cpi-2.0.4/cpi.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/main.c",
+				"/C/Users/Mr_LAKASHIANG/Desktop/main.cpp",
+				"/C/myFiles/Sublime_Text_main/Data/Packages/User/C_Cpp_ver1.sublime-build",
+				"/C/Users/Mr_LAKASHIANG/Documents/main.cpp",
+				"/C/myFiles/Sublime_Text_main/Data/Packages/User/auto_save.sublime-settings",
+				"/C/myFiles/Sublime_Text_main/Data/Packages/auto-save/auto_save.sublime-settings",
+				"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Win7.bat",
 				"/C/myFiles/Sublime_Text_main/CLI_Compiler/C_Cpp_Compiler.bat",
+				"/C/myFiles/Sublime_Text_main/CLI_Compiler/Batch_C.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/save1.bat",
 				"/C/Users/Mr_LAKASHIANG/Desktop/C_Cpp_Win7.bat",
 				"/C/CLI_Compiler/C_Cpp_Compiler.bat",
@@ -278,7 +444,7 @@
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 31.0
 			},
 			"find_in_files":
 			{
@@ -292,6 +458,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"C_Cpp_Win7",
 					"a.exe"
 				],
 				"highlight": true,
@@ -300,6 +467,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"C_Cpp_ver1",
 					"main.exe"
 				],
 				"reverse": false,
@@ -320,7 +488,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -358,11 +526,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,655,0,0,814,eda1b5461763384bbf4cfc2e5e872070",
+			"position": "0,0,1,-1,-1,-1,-1,773,676,120,1488,8014a2f0e9c32e42b169167e6ff97004",
 			"project": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
